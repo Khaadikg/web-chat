@@ -1,4 +1,4 @@
-
+<img width="972" alt="Снимок экрана 2024-01-17 в 16 56 46" src="https://github.com/Khaadikg/web-chat/assets/126019047/c11e87d5-4c92-4347-ac4b-952ac124da45">
 ## Building a Real Time Chat Application with Spring Boot and Websocket
 
 ## What is Websocket?
@@ -130,3 +130,7 @@ Our UI is a simple cardbox built using HTML and CSS that runs some JS functions 
 * main.js is a Javascript file which connects the websocket endpoint to send and receive messages. It also displays and format the messages on the screen.
 
 ## End result
+<img width="972" alt="Снимок экрана 2024-01-17 в 16 56 46" src="https://github.com/Khaadikg/web-chat/assets/126019047/54c9c48e-4c51-480c-871f-4140370e62c1">
+
+
+<img width="972" alt="Снимок экрана 2024-01-17 в 16 57 32" src="https://github.com/Khaadikg/web-chat/assets/126019047/cc0badc2-5369-4696-96d0-bc0368521699">
